@@ -1,0 +1,31 @@
+name: HideAndSeek
+main: com.fusashy.has.HAS
+version: 1.0.3
+load: STARTUP
+author: Fusashy
+commands: 
+        lookup:
+        broadcast:
+        gm:
+        getloc:
+        heal:
+        invsee:
+        nick:
+        time:
+        tphere:
+        gamemode:
+        kick:
+        bc:
+        setspawn:
+        spawn:
+        vanish:
+        feed:
+        sendspawn:
+        head:
+        respawn:
+        exclude:
+        list:
+        enderchest:
+        ec:
+        game:
+      
